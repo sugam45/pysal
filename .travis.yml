@@ -40,8 +40,7 @@ script:
 notifications:
     email:
         recipients:
-            - sjsrey@gmail.com
-            - levi.john.wolf@gmail.com
+            - sugam@iitk.ac.in
         on_success: change 
         on_failure: always
 
